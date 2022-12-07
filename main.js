@@ -54,9 +54,9 @@ findWishlist(item){
 
 }
 
-
-
-
+toString(){
+        return this.wishlist.getId, this.wishlist.getName, this.wishlist.getWishlist
+    }
 
 }
 
